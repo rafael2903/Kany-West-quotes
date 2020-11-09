@@ -1,3 +1,7 @@
+# Access this site online
+
+To access the site, [click here](https://csb-167ed.netlify.app/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
