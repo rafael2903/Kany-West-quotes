@@ -1,6 +1,7 @@
 # Kany West quotes
 
-Site para praticar requisições para api com React JS
+Site com citações do rapper Kany West.\
+Feito em React JS para praticar requisições para api com a biblioteca axios.\
 Para acessar o site, [clique aqui](https://csb-167ed.netlify.app/).
 
 ## Começando com Create React App
@@ -11,7 +12,7 @@ Esse projeto foi feito com [Create React App](https://github.com/facebook/create
 
 No diretório do projeto, você pode rodar:
 
-### `yarn start`
+#### `yarn start`
 
 Roda o app em modo de desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para ver no navegador.
