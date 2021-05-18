@@ -3,19 +3,18 @@
 Site para praticar requisições para api com React JS
 Para acessar o site, [clique aqui](https://csb-167ed.netlify.app/).
 
-# Getting Started with Create React App
+## Começando com Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto foi feito com [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Executar
 
-In the project directory, you can run:
+No diretório do projeto, você pode rodar:
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Roda o app em modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para ver no navegador.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
+A página será recarregada se você fizer edições.\
+Você também verá quaisquer erros de lint no console.
